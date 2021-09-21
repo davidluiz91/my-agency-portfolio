@@ -11,3 +11,18 @@ body, html{
 #header .navbar-collapse{
     width: auto;
 }
+
+.whatsapp {
+    position: fixed;
+    top: 70%;
+    right: 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
+.insta {
+  position: fixed;
+  top: 80%;
+  right: 1.5%;
+  padding: 9px;
+  z-index: 10000000;
+}
